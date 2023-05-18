@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+   <Product>
+      <PCode>TE12</PCode>
+      <PDesc>test</PDesc>
+      <PPrice>100</PPrice>
+   </Product>
+   <Product>
+      <PCode>TE13</PCode>
+      <PDesc>test2</PDesc>
+      <PPrice>200</PPrice>
+   </Product>
+</Products>

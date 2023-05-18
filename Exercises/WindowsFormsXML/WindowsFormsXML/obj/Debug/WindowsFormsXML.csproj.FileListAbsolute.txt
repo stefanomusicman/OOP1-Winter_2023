@@ -1,0 +1,11 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\bin\Debug\WindowsFormsXML.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\bin\Debug\WindowsFormsXML.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\bin\Debug\WindowsFormsXML.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.Form1.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.Properties.Resources.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.csproj.GenerateResource.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\WindowsFormsXML\WindowsFormsXML\obj\Debug\WindowsFormsXML.pdb

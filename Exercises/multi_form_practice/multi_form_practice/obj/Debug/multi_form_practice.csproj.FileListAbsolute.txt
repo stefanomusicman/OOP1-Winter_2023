@@ -1,0 +1,13 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\bin\Debug\multi_form_practice.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\bin\Debug\multi_form_practice.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\bin\Debug\multi_form_practice.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.MainForm.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.Properties.Resources.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.csproj.GenerateResource.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.StringHandling.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\multi_form_practice\multi_form_practice\obj\Debug\multi_form_practice.TestForm.resources

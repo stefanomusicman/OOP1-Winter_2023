@@ -1,0 +1,8 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\bin\Debug\MidTermConsoleApp.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\bin\Debug\MidTermConsoleApp.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\bin\Debug\MidTermConsoleApp.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\obj\Debug\MidTermConsoleApp.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\obj\Debug\MidTermConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\obj\Debug\MidTermConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\obj\Debug\MidTermConsoleApp.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermConsoleApp\MidTermConsoleApp\obj\Debug\MidTermConsoleApp.pdb

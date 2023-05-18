@@ -1,0 +1,11 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\bin\Debug\WindowsFormsMTPrep.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\bin\Debug\WindowsFormsMTPrep.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\bin\Debug\WindowsFormsMTPrep.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.Form1.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.Properties.Resources.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.csproj.GenerateResource.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term prep\WindowsFormsMTPrep\WindowsFormsMTPrep\obj\Debug\WindowsFormsMTPrep.pdb

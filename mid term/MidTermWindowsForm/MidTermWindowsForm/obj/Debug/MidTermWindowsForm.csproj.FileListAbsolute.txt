@@ -1,0 +1,11 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\bin\Debug\MidTermWindowsForm.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\bin\Debug\MidTermWindowsForm.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\bin\Debug\MidTermWindowsForm.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.frm_ConvertLength.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.Properties.Resources.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.csproj.GenerateResource.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\mid term\MidTermWindowsForm\MidTermWindowsForm\obj\Debug\MidTermWindowsForm.pdb

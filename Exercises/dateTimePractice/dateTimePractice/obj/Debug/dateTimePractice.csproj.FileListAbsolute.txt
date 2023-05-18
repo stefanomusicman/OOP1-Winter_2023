@@ -1,0 +1,11 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\bin\Debug\dateTimePractice.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\bin\Debug\dateTimePractice.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\bin\Debug\dateTimePractice.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.Form1.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.Properties.Resources.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.csproj.GenerateResource.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\dateTimePractice\dateTimePractice\obj\Debug\dateTimePractice.pdb

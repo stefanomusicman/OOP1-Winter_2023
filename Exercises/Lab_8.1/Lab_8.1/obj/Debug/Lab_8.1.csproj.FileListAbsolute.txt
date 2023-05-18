@@ -1,0 +1,11 @@
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\bin\Debug\Lab_8.1.exe.config
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\bin\Debug\Lab_8.1.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\bin\Debug\Lab_8.1.pdb
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8.1.csproj.AssemblyReference.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8._1.Form1.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8._1.Properties.Resources.resources
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8.1.csproj.GenerateResource.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8.1.csproj.CoreCompileInputs.cache
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8.1.exe
+C:\Users\stefp\Desktop\Lasalle Classes\Winter 2023\Object Oriented Programming Concepts\Exercises\Lab_8.1\Lab_8.1\obj\Debug\Lab_8.1.pdb

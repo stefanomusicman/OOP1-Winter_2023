@@ -1,0 +1,8 @@
+﻿
+212 F = 100 C,   2023-04-06 2:39:51 PM   Water boils
+70 F = 21.1111111111111 C,   2023-04-06 2:39:59 PM   Water boils
+50 F = 10 C,   2023-04-06 2:40:11 PM   Cool Day
+104 F = 40 C,   2023-04-06 2:40:20 PM   Hot Bath
+0 C = 32 F,   2023-04-06 2:40:33 PM   Freezing Point of Water
+10 C = 50 F,   2023-04-14 4:28:11 PM   Cool Day
+212 F = 100 C,   2023-04-14 4:28:36 PM   Water boils
